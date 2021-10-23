@@ -2,7 +2,7 @@
 - 👀 I’m interested in games and programmes.
 - 🌱 I’m currently learning in school
 - 💞️ I don't want to cooperate with anyone
-- 📫 You can contact me via email: fuckshift@mail.ru
+- 📫You can contact me by email: fuckshift@mail.ru, or via Discord: ShelfSaver#4353
 
 <!---
 fuckshift/fuckshift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
